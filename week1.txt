@@ -1,4 +1,2 @@
 day la file week1
 thuoc brand: week1
-hello 123456789
-helo brand week1
